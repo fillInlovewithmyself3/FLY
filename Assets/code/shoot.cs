@@ -21,6 +21,7 @@ public class shoot : MonoBehaviour
 
         Destroy(gameObject);
         Destroy(other.gameObject);
+        //test;
 
     }
 }
